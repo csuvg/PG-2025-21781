@@ -161,3 +161,4 @@ services/questionService/__pycache__/
 **/.externalNativeBuild
 **/.cxx
 **/local.properties
+**/.idea
